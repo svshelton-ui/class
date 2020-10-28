@@ -1,9 +1,5 @@
 voila
 fastai>=2
-<<<<<<< HEAD
-pillow<7
-=======
 Pillow>=7.1.0
->>>>>>> f9afd49... intit commit of gitignore, requirements, and readme markdown file
 packaging
 ipywidgets==7.5.1
